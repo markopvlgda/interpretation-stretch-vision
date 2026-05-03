@@ -1,5 +1,5 @@
 [versions]
-container = "3.0.2"
+container = "3.4.3"
 
 [libraries]
 container = { module = "io.ktor:ktor-server-core", version.ref = "container" }
